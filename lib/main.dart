@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+<<<<<<< HEAD
 import 'start_screen.dart';
 
 void main() {
@@ -16,3 +17,11 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+=======
+import 'python.dart';
+
+void main() => runApp(const MaterialApp(
+  debugShowCheckedModeBanner: false,
+  home: PythonCoursePage(),
+));
+>>>>>>> 35aa3b6 (initial commit)

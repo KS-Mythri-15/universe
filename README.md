@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # flutter_proj1
+=======
+# androidapp
+>>>>>>> 35aa3b6 (initial commit)
 
 A new Flutter project.
 
